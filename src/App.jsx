@@ -13,7 +13,7 @@ function App() {
     formData.append("file", file);
 
     try {
-      const response = await axios.post("http://localhost:8000/upload", formData, {
+      const response = await axios.post("https://ros-log-viewer-api.onrender.com/upload", formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       console.log(response.data.message);
@@ -27,7 +27,7 @@ function App() {
 
   const fetchLogs = async (severity = null) => {
     try {
-      const response = await axios.get("http://localhost:8000/logs", {
+      const response = await axios.get("https://ros-log-viewer-api.onrender.com/logs", {
         params: severity ? { severity } : {},
       });
       setLogs(response.data);
