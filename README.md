@@ -34,7 +34,7 @@ The ROS Log Viewer is a web-based application designed to display and analyze lo
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ros-log-viewer.git
+   git clone https://github.com/Ujaaslohani/ros-log-viewer-api.git
    cd ros-log-viewer/backend
    ```
 2. Install dependencies:
