@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #ae8aa8;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: #584fd4;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.table-wrapper {
+  width: 90%;
+  max-width: 1200px;
+  margin: 20px auto;
+  background: #2a2a3d;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
