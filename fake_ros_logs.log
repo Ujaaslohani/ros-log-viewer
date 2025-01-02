@@ -1,0 +1,2094 @@
+[2024-12-11 11:31:58] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:31:58] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:31:58] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:31:58] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:31:58] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:31:59] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:32:02] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:32:03] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:32:05] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:32:08] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:32:05] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:32:10] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:32:11] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:32:15] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:32:16] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:32:14] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:32:15] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:32:21] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:32:20] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:32:18] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:32:23] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:32:20] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:32:15] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:32:25] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:32:21] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:32:12] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:32:11] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:32:24] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:32:46] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:32:43] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:32:12] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:32:31] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:32:21] [DEBUG] [/controller] Entering loop iteration 861.
+[2024-12-11 11:32:38] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:32:58] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:32:58] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:32:46] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:32:34] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:32:37] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:32:53] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:33:03] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:32:33] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:33:05] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:32:41] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:32:35] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 11:32:47] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:32:36] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:33:02] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:32:35] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:32:48] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:33:03] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:32:31] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:32:25] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:32:49] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:32:24] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:33:33] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:32:32] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:32:32] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:33:25] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:32:31] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:33:08] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:32:39] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:32:52] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:33:55] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:32:35] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:32:49] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:33:59] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:33:55] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:32:57] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:34:01] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:33:22] [DEBUG] [/lidar_processor] Entering loop iteration 901.
+[2024-12-11 11:33:03] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:33:08] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:33:38] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:32:43] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:33:40] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:33:18] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:33:04] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:34:14] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:33:41] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:32:48] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:33:55] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:34:18] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:34:20] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:33:29] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:34:14] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:33:53] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:33:12] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:34:43] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:34:37] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:34:00] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:34:00] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:33:46] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:33:02] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:34:30] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:34:12] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:33:32] [DEBUG] [/path_planner] Entering loop iteration 563.
+[2024-12-11 11:33:14] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:34:50] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:33:50] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:33:18] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:35:00] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:32:53] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:33:37] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:35:15] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:35:15] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:35:15] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:35:15] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:33:23] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:35:12] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:34:24] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:33:29] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:33:42] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:35:28] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:33:49] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:32:56] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:35:00] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:34:29] [DEBUG] [/path_planner] Entering loop iteration 550.
+[2024-12-11 11:33:57] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:33:08] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:33:20] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:33:32] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:34:43] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:35:41] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:35:23] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:35:26] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:33:26] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:34:05] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:35:24] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:34:19] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:35:51] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:35:34] [DEBUG] [/lidar_processor] Entering loop iteration 824.
+[2024-12-11 11:33:03] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:34:21] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:34:08] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:34:11] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:34:09] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:33:24] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:35:06] [DEBUG] [/path_planner] Entering loop iteration 271.
+[2024-12-11 11:34:05] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:34:14] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:36:07] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:33:07] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:35:12] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:33:26] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:33:58] [DEBUG] [/lidar_processor] Entering loop iteration 942.
+[2024-12-11 11:35:27] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:33:30] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:35:50] [DEBUG] [/path_planner] Entering loop iteration 349.
+[2024-12-11 11:36:36] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:35:15] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:35:58] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:35:40] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:33:59] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:36:43] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:36:54] [DEBUG] [/camera_driver] Entering loop iteration 844.
+[2024-12-11 11:34:56] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:34:54] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:34:17] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:34:27] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:36:40] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:37:02] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:34:19] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:36:48] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:35:56] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:34:57] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:36:01] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:35:15] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:34:16] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:34:27] [DEBUG] [/controller] Entering loop iteration 327.
+[2024-12-11 11:36:44] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:34:56] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:33:44] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:35:28] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:36:58] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:34:51] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:36:19] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:35:59] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:34:40] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:35:18] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:35:12] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:33:31] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:35:29] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:37:48] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:33:38] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:33:39] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:33:49] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:37:29] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:35:06] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:36:14] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:36:29] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:35:38] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:35:34] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:34:55] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:35:58] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:37:09] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:35:52] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:35:05] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:35:39] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:36:46] [DEBUG] [/controller] Entering loop iteration 433.
+[2024-12-11 11:33:35] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:37:15] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:35:18] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:35:49] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:35:40] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:34:40] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:36:22] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:37:32] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:37:32] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:37:32] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:37:32] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:37:32] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:37:32] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:38:01] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 11:37:31] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:35:26] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:35:47] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:34:18] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:37:11] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:35:11] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:35:36] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:36:18] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:37:58] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:33:55] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:37:01] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:34:05] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:34:48] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:37:21] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:35:37] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:34:26] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:33:51] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:38:18] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:38:37] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:37:25] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:36:18] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:36:11] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:38:54] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:38:30] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:37:11] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:34:40] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:34:20] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:35:29] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:33:56] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:35:38] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:34:35] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:39:17] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:38:03] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:37:18] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:34:03] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:39:01] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:36:41] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 11:34:26] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:39:10] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:35:31] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:39:23] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:37:10] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:34:02] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:38:02] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:38:13] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:38:52] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:38:00] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:39:35] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:36:40] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:37:27] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:40:10] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:36:03] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:38:23] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:40:10] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:35:52] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:36:27] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:38:27] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:36:31] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:39:49] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:39:21] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:35:36] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:37:06] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:36:02] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:39:50] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:38:33] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:39:44] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:38:01] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:34:40] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:36:46] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:40:33] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:35:54] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:37:51] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:39:33] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:37:52] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:38:12] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:37:42] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:36:21] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:40:10] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:40:56] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:41:11] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:36:01] [DEBUG] [/controller] Entering loop iteration 212.
+[2024-12-11 11:40:43] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:35:30] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:36:31] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:40:01] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:38:01] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:35:54] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:40:06] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:40:42] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:34:43] [DEBUG] [/odom_publisher] Entering loop iteration 645.
+[2024-12-11 11:38:50] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:40:25] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:36:13] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:35:18] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:38:30] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:35:48] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:36:55] [DEBUG] [/path_planner] Entering loop iteration 863.
+[2024-12-11 11:39:05] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:38:47] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:38:47] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:38:47] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:38:47] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:38:47] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:38:47] [DEBUG] [/lidar_processor] Entering loop iteration 793.
+[2024-12-11 11:35:38] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:36:15] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:38:27] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:35:11] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:37:20] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:38:56] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:37:28] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:35:06] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:38:08] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:42:07] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:39:54] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:40:11] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:42:12] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:36:39] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:37:53] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:40:47] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:39:42] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:40:05] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:40:57] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:37:18] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:37:55] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:36:55] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:40:09] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:38:01] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:37:15] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:41:52] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:35:26] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:35:04] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:37:30] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:34:56] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:40:19] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:38:56] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:36:42] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:35:32] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:36:54] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:36:15] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:38:59] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:39:47] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:41:05] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:37:50] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:35:07] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:34:50] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:37:32] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:37:16] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:35:49] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:37:35] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:35:50] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:43:28] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:40:51] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:36:51] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:38:07] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:39:32] [DEBUG] [/odom_publisher] Entering loop iteration 296.
+[2024-12-11 11:36:43] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:41:37] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:35:37] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:42:43] [DEBUG] [/controller] Entering loop iteration 219.
+[2024-12-11 11:41:51] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:41:50] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:35:08] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:42:23] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:39:43] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:43:57] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:35:17] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:43:21] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:43:38] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:39:48] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:43:29] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:37:10] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:42:38] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:38:44] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:39:37] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:35:42] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:38:21] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:40:51] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:40:41] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:41:25] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:40:06] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:35:42] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:35:19] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:37:40] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:37:23] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:43:47] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:37:14] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:43:47] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:42:55] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:43:10] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:42:36] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:42:55] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:41:21] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:36:00] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:37:32] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:42:09] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:43:17] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:44:05] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:36:09] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:44:39] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:40:40] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:37:17] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:41:17] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:35:46] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:35:46] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:35:46] [DEBUG] [/lidar_processor] Entering loop iteration 418.
+[2024-12-11 11:35:46] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:35:46] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:35:46] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:35:46] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:44:14] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:42:09] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:45:03] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:38:28] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:43:06] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:36:10] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:38:46] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:36:48] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:42:28] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:41:51] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:36:38] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:45:27] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:45:26] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:37:04] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:38:52] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:40:16] [DEBUG] [/path_planner] Entering loop iteration 729.
+[2024-12-11 11:40:18] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:38:57] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:37:43] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:39:52] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:41:57] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:36:52] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:36:43] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:42:18] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:40:57] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:42:45] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:37:43] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:41:34] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:36:54] [DEBUG] [/path_planner] Entering loop iteration 852.
+[2024-12-11 11:36:03] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:40:42] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:43:20] [DEBUG] [/controller] Entering loop iteration 439.
+[2024-12-11 11:35:55] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:41:52] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:42:29] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:40:44] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:38:54] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:40:29] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:43:58] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:39:20] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:44:58] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:43:20] [DEBUG] [/camera_driver] Entering loop iteration 550.
+[2024-12-11 11:44:07] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:45:49] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:42:44] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:41:51] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:43:06] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:39:29] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:43:33] [DEBUG] [/camera_driver] Entering loop iteration 924.
+[2024-12-11 11:37:32] [DEBUG] [/lidar_processor] Entering loop iteration 438.
+[2024-12-11 11:40:08] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:40:32] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:46:32] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:44:51] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:38:53] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:46:47] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:45:44] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:36:12] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:47:13] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:46:49] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:41:33] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:45:15] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:45:30] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:44:29] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:47:17] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:43:32] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:37:57] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:37:08] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:40:07] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:42:29] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:45:07] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:44:02] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:37:40] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:40:36] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:44:52] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:43:40] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:44:57] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 11:40:01] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:36:03] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:40:58] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:41:43] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:42:30] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:41:24] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:42:29] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:40:18] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:45:39] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:41:00] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:39:27] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:40:43] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:37:03] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:37:04] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:47:25] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:40:04] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:37:18] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:36:48] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:41:07] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:37:38] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:46:13] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:36:49] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:44:18] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:44:18] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:44:18] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:44:18] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:44:18] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:44:18] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:42:15] [DEBUG] [/path_planner] Entering loop iteration 672.
+[2024-12-11 11:44:44] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:46:48] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:43:18] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:47:55] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:44:17] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:48:02] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:43:59] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:36:16] [DEBUG] [/controller] Entering loop iteration 833.
+[2024-12-11 11:46:21] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:44:25] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:48:53] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:36:50] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:47:22] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:39:08] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:44:59] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:48:12] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:42:22] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:46:35] [DEBUG] [/controller] Entering loop iteration 329.
+[2024-12-11 11:47:56] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:47:38] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:43:42] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:42:25] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:37:03] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:46:41] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:40:23] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:42:51] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:45:31] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:37:38] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:40:08] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:37:29] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:48:38] [DEBUG] [/path_planner] Entering loop iteration 493.
+[2024-12-11 11:43:53] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:45:56] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:46:11] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:47:33] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:45:46] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:43:56] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:47:12] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:41:33] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:44:06] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:49:22] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:39:23] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:45:25] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:43:26] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:39:35] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:47:37] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:44:53] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:47:33] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:44:26] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:44:33] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:40:53] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:49:44] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:45:50] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:45:56] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:39:54] [DEBUG] [/odom_publisher] Entering loop iteration 460.
+[2024-12-11 11:38:16] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:42:28] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:45:24] [DEBUG] [/lidar_processor] Entering loop iteration 358.
+[2024-12-11 11:38:56] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:46:15] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:50:21] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:42:32] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:43:59] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:40:59] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:37:35] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:43:23] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:37:47] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:48:39] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:37:12] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:43:30] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:50:31] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:43:11] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:48:05] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:40:44] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:40:59] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:47:18] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:41:14] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:36:48] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:38:08] [DEBUG] [/lidar_processor] Entering loop iteration 693.
+[2024-12-11 11:43:27] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:39:25] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:42:54] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:45:39] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:51:18] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:49:34] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:47:53] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:39:18] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:39:15] [DEBUG] [/camera_driver] Entering loop iteration 998.
+[2024-12-11 11:47:45] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:51:15] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:50:59] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 11:48:08] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:44:31] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:50:34] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:45:27] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:51:19] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:39:05] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:38:27] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:50:50] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:50:50] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:50:50] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:50:50] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:50:50] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:50:50] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:45:43] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:51:30] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:41:11] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:47:47] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:39:55] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:51:20] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:46:56] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:45:42] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:45:34] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:45:04] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:43:05] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:50:40] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:41:18] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:51:32] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:45:53] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:43:12] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:40:32] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:39:19] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:43:41] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:48:19] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:44:31] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:52:03] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:43:48] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:43:02] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:50:33] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:37:50] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:50:36] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:50:15] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:46:47] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:47:34] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:48:01] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:46:37] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:39:12] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:42:34] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:38:34] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:45:48] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:52:00] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:45:21] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:48:35] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:49:53] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:50:43] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:43:03] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:47:06] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:45:15] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:52:27] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:52:44] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:47:40] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:42:10] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:46:44] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:40:57] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:44:30] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:41:37] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:50:15] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:46:53] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:50:43] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:45:13] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:46:27] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:38:44] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:53:19] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:53:15] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:40:28] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:51:19] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:43:17] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:37:31] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:52:19] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:45:42] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:42:35] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:44:42] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:52:56] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:41:35] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:40:44] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:38:50] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:46:01] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:39:10] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:48:23] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:49:54] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:53:39] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:39:42] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:46:45] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:39:06] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:41:53] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:54:30] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:41:32] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:51:24] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:46:26] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:47:25] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:52:22] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:45:28] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:52:10] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:39:30] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:38:20] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:52:39] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:53:27] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:38:30] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:40:48] [DEBUG] [/controller] Entering loop iteration 326.
+[2024-12-11 11:37:57] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:51:23] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:48:56] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:53:02] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:49:54] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:49:54] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:49:54] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:49:54] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:41:13] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:48:42] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:46:57] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:44:18] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:51:49] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:49:20] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:55:16] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:52:21] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:45:59] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:54:04] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:38:26] [DEBUG] [/path_planner] Entering loop iteration 155.
+[2024-12-11 11:39:43] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:49:35] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:50:08] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:42:20] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:43:31] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:42:51] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:46:28] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:40:39] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:51:39] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:39:58] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:55:05] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:48:50] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:49:44] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:55:41] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:47:38] [DEBUG] [/camera_driver] Entering loop iteration 456.
+[2024-12-11 11:49:46] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:55:20] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:52:07] [DEBUG] [/odom_publisher] Entering loop iteration 286.
+[2024-12-11 11:50:22] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:47:26] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:50:17] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:41:30] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:53:40] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:53:15] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:53:18] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 11:41:12] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:52:54] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:42:03] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:40:38] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:41:41] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:52:01] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:52:04] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:42:25] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:44:56] [DEBUG] [/controller] Entering loop iteration 149.
+[2024-12-11 11:49:35] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:50:51] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:43:23] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:40:51] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:45:23] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:42:06] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:46:08] [DEBUG] [/path_planner] Entering loop iteration 231.
+[2024-12-11 11:41:08] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:46:19] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:56:17] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:51:27] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:54:33] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:38:58] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:51:30] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:55:32] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:40:41] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:44:02] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:50:54] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:55:46] [DEBUG] [/lidar_processor] Entering loop iteration 298.
+[2024-12-11 11:50:58] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:39:43] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:56:32] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:45:59] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:44:20] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:43:10] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:46:41] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:45:51] [DEBUG] [/controller] Entering loop iteration 590.
+[2024-12-11 11:40:52] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:42:44] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:40:05] [DEBUG] [/path_planner] Entering loop iteration 299.
+[2024-12-11 11:44:24] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:48:00] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:54:33] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:42:59] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:50:27] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:53:40] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:53:07] [DEBUG] [/odom_publisher] Entering loop iteration 40.
+[2024-12-11 11:46:32] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:42:36] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:46:47] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:45:47] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:53:44] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:51:09] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:42:56] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:55:54] [DEBUG] [/lidar_processor] Entering loop iteration 612.
+[2024-12-11 11:40:00] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:48:51] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:50:00] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:55:50] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:56:57] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:53:43] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:48:05] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:51:24] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:43:05] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:56:20] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:56:20] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:56:20] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:56:20] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:56:20] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:56:20] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:56:20] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:43:02] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:51:26] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:39:30] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:51:48] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:46:12] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:45:27] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 11:41:09] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:52:54] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:42:07] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:56:04] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:57:42] [DEBUG] [/lidar_processor] Entering loop iteration 839.
+[2024-12-11 11:56:20] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:48:39] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:40:57] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:49:48] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:47:22] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:44:14] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:45:14] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:49:41] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:43:29] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:39:14] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:52:57] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:57:10] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:54:41] [DEBUG] [/path_planner] Entering loop iteration 727.
+[2024-12-11 11:54:22] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:49:35] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:58:53] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:43:18] [DEBUG] [/odom_publisher] Entering loop iteration 731.
+[2024-12-11 11:55:55] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:53:33] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:48:58] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 11:57:11] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:48:43] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:55:07] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:49:16] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:44:54] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:57:24] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:39:50] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:52:43] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:44:07] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:49:44] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:47:10] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:39:13] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:42:21] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:44:52] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:53:12] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:51:42] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:41:35] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:52:43] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:51:08] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:48:42] [DEBUG] [/lidar_processor] Entering loop iteration 322.
+[2024-12-11 11:40:32] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:42:00] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:41:57] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:47:47] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:49:23] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:46:03] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:39:30] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:44:06] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:56:17] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:44:23] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:57:04] [DEBUG] [/lidar_processor] Entering loop iteration 308.
+[2024-12-11 11:52:45] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:52:16] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:46:02] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:55:43] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:48:05] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:55:50] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:41:08] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:48:39] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:55:47] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:51:47] [DEBUG] [/odom_publisher] Entering loop iteration 189.
+[2024-12-11 12:00:28] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:45:19] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:42:30] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:55:55] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:57:11] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:54:58] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:57:42] [DEBUG] [/controller] Entering loop iteration 699.
+[2024-12-11 11:52:33] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:58:34] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:54:23] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:46:45] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:43:43] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:59:50] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:57:35] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:43:48] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:43:52] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:44:26] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:52:47] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:41:32] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:57:08] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:41:23] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:41:15] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:47:30] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:58:05] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:45:11] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 12:01:32] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:56:35] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:47:14] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:47:14] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:47:14] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:47:14] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:47:14] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:47:39] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:50:50] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:57:46] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:44:28] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:02:07] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:56:57] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:52:25] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:53:08] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 12:01:56] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:42:57] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:45:22] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:41:15] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:40:42] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:53:27] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:48:53] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:49:53] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 12:01:34] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:50:14] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:51:12] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:43:39] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:50:38] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:01:14] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:42:18] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:50:27] [DEBUG] [/camera_driver] Entering loop iteration 160.
+[2024-12-11 11:47:36] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 12:02:00] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:56:29] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:58:26] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 12:02:20] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:50:54] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:45:03] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:59:50] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:40:50] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:58:43] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:52:22] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:58:34] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:45:15] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:40:41] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:48:28] [DEBUG] [/odom_publisher] Entering loop iteration 988.
+[2024-12-11 11:45:56] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:02:41] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 12:01:01] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:56:24] [DEBUG] [/odom_publisher] Entering loop iteration 374.
+[2024-12-11 12:00:49] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:44:43] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:50:42] [DEBUG] [/controller] Entering loop iteration 460.
+[2024-12-11 11:57:40] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:57:57] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:40:41] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:57:20] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:41:23] [DEBUG] [/camera_driver] Entering loop iteration 107.
+[2024-12-11 12:02:51] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:45:28] [INFO] [/controller] Robot started successfully.
+[2024-12-11 12:02:31] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:57:04] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:40:12] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:53:33] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:50:30] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:40:21] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:46:41] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 12:01:58] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:40:16] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:57:42] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:44:09] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 12:00:53] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:56:44] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:44:56] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:58:26] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:03:13] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:46:20] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:54:24] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:49:02] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:54:56] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:42:41] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:48:15] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:53:10] [DEBUG] [/camera_driver] Entering loop iteration 819.
+[2024-12-11 12:04:32] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:54:06] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:44:13] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:59:00] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:47:04] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:56:10] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:54:21] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:42:53] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:41:37] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:44:23] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:47:27] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:53:14] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:55:53] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:52:44] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:48:54] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:44:05] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:50:02] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:46:46] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:56:13] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:51:05] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:01:06] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:52:01] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:55:05] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:03:54] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 12:03:54] [DEBUG] [/odom_publisher] Entering loop iteration 817.
+[2024-12-11 12:03:54] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 12:03:54] [DEBUG] [/lidar_processor] Entering loop iteration 704.
+[2024-12-11 12:03:54] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 12:03:54] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:03:54] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:03:54] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:57:40] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:42:32] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:54:30] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:51:36] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:47:57] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 12:00:27] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:41:16] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:47:41] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:03:57] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:00:26] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:58:29] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 12:03:19] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:46:03] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:57:06] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:03:40] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:03:53] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:50:48] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:49:04] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:52:44] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:41:02] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:48:23] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:59:05] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:43:28] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:56:51] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:47:25] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 12:05:25] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:45:53] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:40:55] [DEBUG] [/camera_driver] Entering loop iteration 443.
+[2024-12-11 11:51:00] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 12:05:03] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 12:05:19] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 12:04:57] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 12:03:32] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:41:31] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:51:36] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 12:04:16] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:57:17] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 11:47:19] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:41:48] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:44:15] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:00:24] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 12:03:30] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:47:36] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 12:01:56] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 12:00:54] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:59:14] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 12:04:33] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:57:02] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:43:57] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:54:12] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:59:46] [DEBUG] [/controller] Entering loop iteration 795.
+[2024-12-11 11:49:33] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 12:00:46] [DEBUG] [/path_planner] Entering loop iteration 925.
+[2024-12-11 11:52:12] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:03:27] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:49:09] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:55:17] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 12:03:09] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:41:45] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:53:15] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:45:12] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:52:29] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 12:04:11] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:52:15] [INFO] [/controller] Robot started successfully.
+[2024-12-11 12:04:19] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 12:00:40] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:56:10] [DEBUG] [/lidar_processor] Entering loop iteration 773.
+[2024-12-11 12:01:13] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:47:06] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:54:09] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 12:07:10] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:51:42] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:51:42] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:52:58] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:05:58] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:50:35] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:04:59] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:50:44] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 12:03:16] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:42:56] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:58:15] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 12:01:34] [DEBUG] [/lidar_processor] Entering loop iteration 906.
+[2024-12-11 12:03:10] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:06:34] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:52:56] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:04:08] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:44:54] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:59:09] [DEBUG] [/path_planner] Entering loop iteration 434.
+[2024-12-11 11:56:30] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:03:19] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:57:03] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 12:07:57] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:49:30] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:58:57] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 12:04:45] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 12:08:28] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 12:02:31] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:49:24] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:59:52] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 12:07:25] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 12:07:25] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:07:25] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:07:25] [DEBUG] [/camera_driver] Entering loop iteration 497.
+[2024-12-11 12:07:25] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:06:47] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:55:14] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:53:07] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:53:51] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 12:06:10] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:42:54] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:47:10] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:07:36] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:56:43] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 12:01:15] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:57:20] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:46:53] [DEBUG] [/odom_publisher] Entering loop iteration 584.
+[2024-12-11 12:07:31] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 12:09:06] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:05:34] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:47:58] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:46:00] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:58:26] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:54:15] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 12:08:26] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:55:38] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:48:59] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:41:20] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:45:56] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 12:04:50] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:08:18] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 12:02:25] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:52:16] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:51:52] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:50:34] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:45:17] [DEBUG] [/camera_driver] Entering loop iteration 153.
+[2024-12-11 11:52:54] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:46:05] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:59:32] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:49:08] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 12:05:57] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 12:03:44] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:55:47] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 12:03:40] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:47:45] [DEBUG] [/path_planner] Entering loop iteration 243.
+[2024-12-11 11:42:34] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:50:26] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 12:09:46] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:00:53] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:43:19] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:45:00] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:41:33] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:51:22] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:58:23] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:58:45] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:43:42] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 12:08:00] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:51:16] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:51:22] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:42:25] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:42:58] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:57:32] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 12:07:07] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 12:03:55] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:58:05] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:57:38] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 12:01:31] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 12:03:32] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:45:09] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:43:49] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:57:54] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 12:04:22] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 11:44:11] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 12:01:56] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:43:17] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:02:31] [DEBUG] [/path_planner] Entering loop iteration 527.
+[2024-12-11 11:48:43] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 12:02:25] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:58:55] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:57:23] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 11:52:29] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 12:06:46] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:56:32] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 12:06:46] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:44:07] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:52:28] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 12:10:50] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:59:32] [DEBUG] [/odom_publisher] Entering loop iteration 314.
+[2024-12-11 12:03:03] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 12:07:23] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:42:18] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:56:54] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 12:05:50] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:59:18] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:51:14] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:59:03] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:52:23] [DEBUG] [/lidar_processor] Entering loop iteration 665.
+[2024-12-11 11:45:32] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:53:28] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 12:06:45] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:49:57] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 12:02:25] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:58:51] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:47:13] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:57:02] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:57:02] [DEBUG] [/camera_driver] Entering loop iteration 258.
+[2024-12-11 11:57:02] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:57:02] [INFO] [/controller] Robot started successfully.
+[2024-12-11 11:57:02] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:57:02] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:57:02] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:57:02] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:52:10] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:02:50] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 12:02:32] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 12:10:48] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:58:42] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:45:55] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:58:54] [DEBUG] [/path_planner] Entering loop iteration 869.
+[2024-12-11 12:12:06] [DEBUG] [/path_planner] Entering loop iteration 168.
+[2024-12-11 11:46:13] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 12:11:51] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 12:10:13] [DEBUG] [/controller] Entering loop iteration 685.
+[2024-12-11 11:55:51] [DEBUG] [/odom_publisher] Entering loop iteration 579.
+[2024-12-11 11:46:30] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:55:46] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 12:01:12] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:58:21] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:08:46] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:01:30] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:10:47] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:51:54] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 12:06:13] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:43:13] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:57:56] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:07:57] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:43:28] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 12:09:51] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 12:11:52] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:59:29] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 12:04:28] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 12:02:56] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:42:41] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:44:16] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:09:35] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 12:08:03] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:57:46] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 12:08:17] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:58:23] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:00:49] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:44:44] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 12:08:28] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 12:06:22] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 12:12:50] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:13:23] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 12:12:50] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 12:05:07] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:04:30] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 12:03:36] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 11:56:30] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:54:29] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 12:11:13] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:48:47] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:59:31] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:55:30] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 12:00:27] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:50:19] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 12:07:54] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 12:08:45] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:59:53] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 12:11:34] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 12:09:06] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:49:06] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 12:05:21] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:44:46] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 12:08:03] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:48:01] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:59:47] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:04:55] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:52:52] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:08:26] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:45:59] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:55:01] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 12:08:04] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:01:50] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:49:17] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:52:41] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:52:41] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 12:00:04] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:51:30] [DEBUG] [/controller] Entering loop iteration 798.
+[2024-12-11 12:07:48] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:53:50] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:48:49] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:48:25] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:04:19] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:44:34] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 12:13:43] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:43:49] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:00:27] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:58:11] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:54:09] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:48:44] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:55:02] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:55:21] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:12:04] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:57:41] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:49:15] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:44:24] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 12:00:19] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 12:07:58] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 11:43:27] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:53:41] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:53:41] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:53:41] [DEBUG] [/path_planner] Entering loop iteration 963.
+[2024-12-11 11:53:41] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:53:41] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:11:45] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:54:15] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 12:09:26] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 12:09:05] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:46:36] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:44:47] [DEBUG] [/controller] Entering loop iteration 282.
+[2024-12-11 12:13:21] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:51:38] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:47:59] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:49:25] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:43:02] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:47:09] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:49:04] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 12:05:01] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:52:24] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:04:55] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 12:08:19] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:51:41] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:13:48] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:53:47] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 12:04:07] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:58:19] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:57:51] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:03:17] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:59:07] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 11:46:29] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:44:09] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:54:27] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:50:53] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:45:36] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 12:00:42] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:47:10] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:08:40] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 12:09:16] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 12:02:03] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 12:07:37] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 12:02:54] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 11:58:50] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:52:26] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:50:14] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:52:11] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 12:10:06] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:51:54] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:05:48] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:44:58] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:44:38] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:12:05] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 12:04:40] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:09:48] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 12:01:44] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:48:55] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 11:56:33] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:48:04] [DEBUG] [/camera_driver] Entering loop iteration 54.
+[2024-12-11 12:11:11] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:04:20] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:44:34] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:50:45] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:07:56] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:44:19] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 12:10:12] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 12:08:14] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:46:58] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 11:46:48] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:47:47] [DEBUG] [/path_planner] Entering loop iteration 157.
+[2024-12-11 11:50:15] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:54:36] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 12:08:53] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:55:50] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:16:42] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:53:34] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 12:17:03] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:11:36] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:10:09] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:59:04] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 11:56:02] [DEBUG] [/lidar_processor] Entering loop iteration 842.
+[2024-12-11 12:07:42] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:13:52] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 11:58:58] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 12:11:15] [DEBUG] [/path_planner] Entering loop iteration 461.
+[2024-12-11 11:57:37] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:47:34] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:08:54] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:45:02] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:45:48] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 12:12:07] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:57:40] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:55:46] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 12:00:23] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 12:16:45] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:43:42] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:55:25] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:55:48] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:59:59] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:47:00] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:11:28] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:45:22] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:59:12] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 12:11:46] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 12:06:24] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:45:02] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:45:02] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:45:02] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:45:02] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:45:02] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:52:37] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 11:59:25] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 12:03:30] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:06:01] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:43:55] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 12:03:38] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:57:22] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:55:51] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 12:06:28] [DEBUG] [/controller] Entering loop iteration 594.
+[2024-12-11 12:09:25] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 12:09:09] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 12:07:37] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:51:57] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 12:17:03] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 11:54:19] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:07:11] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 12:05:55] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 11:56:58] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 12:01:23] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:51:05] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:56:20] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 12:16:02] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 12:11:31] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:46:58] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 12:08:10] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:44:55] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:44:39] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 12:12:57] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:55:02] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:00:45] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 11:47:16] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:57:14] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 12:08:30] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 12:15:28] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 12:08:50] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 12:16:19] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 12:01:37] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:51:16] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:55:04] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 12:18:51] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:56:53] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:04:39] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 12:19:14] [DEBUG] [/odom_publisher] Entering loop iteration 74.
+[2024-12-11 12:02:33] [DEBUG] [/odom_publisher] Entering loop iteration 824.
+[2024-12-11 11:54:22] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 12:00:40] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:08:54] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 12:01:49] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 11:54:16] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:56:35] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:51:05] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 12:12:24] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:44:29] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 12:14:55] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 11:44:07] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:17:01] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:17:31] [INFO] [/controller] Robot started successfully.
+[2024-12-11 12:01:53] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:48:39] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:59:03] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 11:55:33] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:57:29] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:06:29] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 12:15:39] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:03:35] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:44:57] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:54:53] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:07:43] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 12:18:21] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 12:13:08] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:56:13] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:04:33] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 12:10:37] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:58:52] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 11:44:54] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:15:54] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 12:00:11] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 12:08:30] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:44:51] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 12:02:52] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:09:29] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:52:53] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:09:31] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:52:09] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:56:03] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:51:39] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:02:00] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:20:56] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 12:17:23] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:55:03] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 11:58:49] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 12:20:04] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:12:36] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 12:01:18] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:50:51] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 12:08:22] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 12:13:49] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:02:55] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:59:27] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 11:53:45] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:53:45] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 11:53:45] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:53:45] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 11:53:45] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:53:45] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 12:11:48] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 12:17:49] [INFO] [/odom_publisher] Image frame received from camera.
+[2024-12-11 12:11:35] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 12:01:41] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:59:29] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:44:59] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:57:55] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:45:00] [DEBUG] [/odom_publisher] Entering loop iteration 211.
+[2024-12-11 12:15:47] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:49:55] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:57:21] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:56:09] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 12:18:47] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 11:50:50] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:51:55] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 11:59:47] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 12:02:43] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 12:13:42] [DEBUG] [/controller] Entering loop iteration 237.
+[2024-12-11 11:55:43] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:54:30] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 12:11:02] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:56:23] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:47:03] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:06:19] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 12:02:33] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 11:58:54] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:12:41] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:57:40] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:00:42] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:46:52] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:46:20] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 11:49:21] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 11:59:17] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:55:39] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 12:08:04] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 12:22:06] [DEBUG] [/path_planner] Entering loop iteration 883.
+[2024-12-11 11:47:10] [ERROR] [/camera_driver] Odometry data not publishing correctly.
+[2024-12-11 11:47:34] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 12:16:17] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:05:20] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:45:33] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 12:15:25] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 12:15:53] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 12:05:38] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 12:09:24] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 12:12:13] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:47:20] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 12:20:42] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:20:23] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:07:37] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 11:45:58] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 12:06:16] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 11:59:14] [INFO] [/controller] Robot started successfully.
+[2024-12-11 12:06:50] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 12:10:44] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:20:32] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:59:03] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 12:18:06] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:59:48] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:59:06] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:56:28] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:04:57] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 12:16:22] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:46:19] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:46:01] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 12:21:17] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 12:22:01] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:02:32] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:49:14] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:57:13] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 12:18:00] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:04:03] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 12:08:14] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:45:33] [INFO] [/odom_publisher] Robot started successfully.
+[2024-12-11 12:21:24] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:06:23] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 12:09:16] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:19:39] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:57:29] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 12:08:39] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 12:11:55] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 12:17:26] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:48:27] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:58:46] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:20:19] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 12:13:09] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:54:14] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:52:49] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 12:21:19] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 11:46:33] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 12:06:38] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 12:03:41] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 12:18:07] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 12:22:35] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:08:17] [DEBUG] [/lidar_processor] Entering loop iteration 132.
+[2024-12-11 12:12:16] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:16:55] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 12:09:51] [DEBUG] [/path_planner] Entering loop iteration 554.
+[2024-12-11 12:12:05] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:16:33] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 12:16:33] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:16:33] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 12:16:33] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 12:16:33] [DEBUG] [/camera_driver] Entering loop iteration 838.
+[2024-12-11 12:16:33] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:16:33] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 11:49:07] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 12:04:10] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 12:24:19] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:49:45] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 12:03:11] [DEBUG] [/path_planner] Entering loop iteration 553.
+[2024-12-11 12:05:41] [DEBUG] [/camera_driver] Entering loop iteration 899.
+[2024-12-11 11:49:36] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 12:09:43] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:59:55] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 12:15:50] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 12:08:56] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 12:09:26] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:01:48] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:12:04] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:57:15] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:58:32] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 12:07:54] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:53:10] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 12:05:35] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:59:55] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:53:56] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 11:55:16] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 11:54:28] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 12:09:33] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 12:01:47] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:17:55] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:55:27] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 12:22:31] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 11:50:40] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 12:04:07] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:46:21] [INFO] [/lidar_processor] Path planned successfully to goal.
+[2024-12-11 12:11:58] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:03:12] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:04:59] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 12:00:29] [DEBUG] [/lidar_processor] Entering loop iteration 225.
+[2024-12-11 12:23:40] [DEBUG] [/odom_publisher] Entering loop iteration 691.
+[2024-12-11 12:09:04] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 12:12:14] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:59:05] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:48:11] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:47:35] [DEBUG] [/camera_driver] Entering loop iteration 281.
+[2024-12-11 11:51:25] [DEBUG] [/path_planner] Initialized sensor data stream.
+[2024-12-11 12:09:32] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:04:36] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 12:08:04] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 11:53:49] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:50:19] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:48:15] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 12:10:13] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 11:55:42] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:58:57] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 11:51:09] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 12:06:29] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:58:05] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:55:04] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 11:51:39] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 11:48:56] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 11:47:56] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 12:26:19] [DEBUG] [/odom_publisher] Initialized sensor data stream.
+[2024-12-11 12:13:37] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:58:06] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 12:24:37] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 11:50:31] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 12:12:54] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 12:08:50] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:13:00] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:05:14] [DEBUG] [/lidar_processor] Entering loop iteration 182.
+[2024-12-11 11:52:28] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:48:29] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:52:45] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:50:19] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:10:34] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:50:50] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 12:26:47] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:25:32] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:46:32] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 12:12:01] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:48:44] [DEBUG] [/lidar_processor] Entering loop iteration 250.
+[2024-12-11 12:25:27] [DEBUG] [/path_planner] Sensor reading latency within bounds.
+[2024-12-11 11:48:21] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 12:09:35] [DEBUG] [/camera_driver] Entering loop iteration 879.
+[2024-12-11 12:18:19] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 12:04:29] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 12:05:32] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 12:23:14] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 12:02:42] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:00:19] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 11:56:19] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 12:05:42] [DEBUG] [/lidar_processor] Entering loop iteration 972.
+[2024-12-11 11:57:13] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 12:16:56] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:18:40] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:06:59] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 12:19:56] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 12:20:13] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:24:52] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 12:14:13] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 12:20:02] [DEBUG] [/odom_publisher] Entering loop iteration 232.
+[2024-12-11 11:54:16] [DEBUG] [/lidar_processor] Entering loop iteration 396.
+[2024-12-11 11:51:47] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:51:47] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:51:47] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:51:47] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:51:47] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:02:40] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:09:17] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 12:00:24] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:52:20] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:02:12] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:51:50] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:01:15] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 12:24:00] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 11:51:44] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 12:22:14] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 12:06:17] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 12:05:32] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:07:50] [DEBUG] [/controller] Initialized sensor data stream.
+[2024-12-11 12:07:54] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:26:41] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 12:13:17] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:55:11] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:48:13] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 12:04:30] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 11:57:35] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:24:26] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 12:28:45] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 12:25:47] [DEBUG] [/controller] Sensor reading latency within bounds.
+[2024-12-11 11:54:35] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:05:53] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 12:26:08] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:52:28] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 12:08:52] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:22:09] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:02:09] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 12:25:01] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:54:32] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 12:08:09] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:58:02] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:55:23] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 12:00:25] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 11:56:36] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:52:14] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 12:27:10] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:52:46] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:53:38] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:11:27] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 12:18:14] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:01:03] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:23:41] [FATAL] [/odom_publisher] Severe error, shutting down ROS master.
+[2024-12-11 12:05:00] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:15:34] [DEBUG] [/lidar_processor] Initialized sensor data stream.
+[2024-12-11 12:26:44] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 12:13:04] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:55:04] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 11:58:48] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:07:10] [DEBUG] [/lidar_processor] Entering loop iteration 254.
+[2024-12-11 11:53:14] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 12:28:04] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 12:26:49] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 12:21:42] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:56:56] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:17:06] [WARN] [/camera_driver] Minor frame drops detected on camera driver.
+[2024-12-11 12:00:27] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 12:11:07] [DEBUG] [/controller] Debugging path planner outputs.
+[2024-12-11 12:29:08] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:59:34] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 12:08:40] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:15:14] [ERROR] [/odom_publisher] Path planning failed: No valid path found.
+[2024-12-11 11:49:31] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 12:04:41] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 11:54:29] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 12:27:54] [FATAL] [/odom_publisher] System halted due to sensor input corruption.
+[2024-12-11 12:25:26] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 12:25:16] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 12:21:59] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 12:14:25] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:54:06] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 12:23:04] [DEBUG] [/controller] Entering loop iteration 219.
+[2024-12-11 12:18:26] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 12:12:11] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:57:49] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:47:10] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:49:23] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 12:11:54] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 11:56:54] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:00:31] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:49:17] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:15:05] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:06:29] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:55:54] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:17:19] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 12:30:48] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 12:18:26] [INFO] [/lidar_processor] Publishing odometry data.
+[2024-12-11 11:55:44] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 12:07:53] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:13:35] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 12:10:04] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:51:24] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:16:15] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 12:11:36] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 11:50:35] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 12:07:45] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 11:54:13] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 12:05:51] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 12:05:51] [FATAL] [/path_planner] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:05:51] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 12:05:51] [DEBUG] [/odom_publisher] Debugging path planner outputs.
+[2024-12-11 12:05:51] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:18:03] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 12:24:36] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 12:15:02] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 12:21:36] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 12:03:12] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 12:31:08] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 11:57:02] [DEBUG] [/camera_driver] Entering loop iteration 612.
+[2024-12-11 11:59:45] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 11:59:32] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:04:57] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 12:10:03] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 11:56:44] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:20:14] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 12:16:06] [WARN] [/odom_publisher] Lidar scan delay exceeded threshold.
+[2024-12-11 11:51:51] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 12:28:11] [DEBUG] [/camera_driver] Debugging path planner outputs.
+[2024-12-11 12:04:48] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 12:31:52] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 11:58:15] [WARN] [/camera_driver] High CPU usage detected on node /camera_driver.
+[2024-12-11 12:08:21] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:26:32] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 11:58:03] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 11:56:07] [WARN] [/path_planner] Battery voltage dropped below 20%.
+[2024-12-11 11:58:30] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 11:47:24] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 11:53:29] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:06:03] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:20:47] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:25:11] [WARN] [/lidar_processor] Lidar scan delay exceeded threshold.
+[2024-12-11 11:53:17] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 12:09:26] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 12:22:41] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 12:05:17] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:05:16] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 11:59:37] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:50:11] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 12:05:22] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:03:52] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:22:53] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 12:27:12] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 11:59:43] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:02:26] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 12:03:37] [FATAL] [/lidar_processor] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:06:13] [WARN] [/controller] Battery voltage dropped below 20%.
+[2024-12-11 12:16:59] [FATAL] [/controller] Severe error, shutting down ROS master.
+[2024-12-11 12:06:14] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:14:16] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 12:17:06] [DEBUG] [/odom_publisher] Entering loop iteration 909.
+[2024-12-11 12:14:23] [WARN] [/controller] Lidar scan delay exceeded threshold.
+[2024-12-11 12:21:39] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:59:43] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 12:32:42] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 12:12:33] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:18:15] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:22:01] [WARN] [/lidar_processor] High CPU usage detected on node /lidar_processor.
+[2024-12-11 12:07:38] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 12:30:58] [DEBUG] [/camera_driver] Entering loop iteration 844.
+[2024-12-11 12:03:30] [WARN] [/lidar_processor] Battery voltage dropped below 20%.
+[2024-12-11 11:51:47] [ERROR] [/odom_publisher] Odometry data not publishing correctly.
+[2024-12-11 12:23:52] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 12:16:14] [INFO] [/path_planner] Robot started successfully.
+[2024-12-11 12:00:58] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 12:21:17] [WARN] [/camera_driver] Lidar scan delay exceeded threshold.
+[2024-12-11 12:29:52] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 12:26:19] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 12:20:46] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:26:47] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:49:31] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 11:50:07] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 12:05:57] [INFO] [/path_planner] Image frame received from camera.
+[2024-12-11 12:17:08] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:01:03] [ERROR] [/camera_driver] Sensor input timeout exceeded for node /camera_driver.
+[2024-12-11 12:20:23] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:54:16] [INFO] [/path_planner] Lidar scan completed.
+[2024-12-11 11:51:30] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 12:16:11] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 12:23:32] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 12:24:27] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:57:06] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:52:58] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 12:22:14] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 12:28:20] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 11:57:34] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:22:50] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:14:10] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 12:25:22] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:16:19] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:01:43] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 11:56:00] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:00:01] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:23:37] [INFO] [/path_planner] Path planned successfully to goal.
+[2024-12-11 12:28:47] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:50:20] [ERROR] [/lidar_processor] Failed to open camera stream.
+[2024-12-11 12:29:00] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 12:27:40] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:54:01] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:55:21] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:31:42] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:24:49] [FATAL] [/lidar_processor] System halted due to sensor input corruption.
+[2024-12-11 12:17:12] [WARN] [/controller] Minor frame drops detected on camera driver.
+[2024-12-11 12:17:12] [DEBUG] [/camera_driver] Initialized sensor data stream.
+[2024-12-11 12:17:12] [INFO] [/path_planner] Publishing odometry data.
+[2024-12-11 12:17:12] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:58:00] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:28:43] [WARN] [/path_planner] Lidar scan delay exceeded threshold.
+[2024-12-11 11:53:09] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:19:47] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:05:38] [FATAL] [/camera_driver] Severe error, shutting down ROS master.
+[2024-12-11 12:19:48] [INFO] [/odom_publisher] Publishing odometry data.
+[2024-12-11 12:21:33] [DEBUG] [/controller] Entering loop iteration 593.
+[2024-12-11 12:04:50] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 12:34:49] [INFO] [/lidar_processor] Lidar scan completed.
+[2024-12-11 11:56:59] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:18:30] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 12:32:41] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:56:09] [ERROR] [/controller] Path planning failed: No valid path found.
+[2024-12-11 12:11:17] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:07:06] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:29:39] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 12:19:03] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:09:36] [WARN] [/path_planner] High CPU usage detected on node /path_planner.
+[2024-12-11 12:22:11] [INFO] [/controller] Image frame received from camera.
+[2024-12-11 12:26:37] [ERROR] [/controller] Sensor input timeout exceeded for node /controller.
+[2024-12-11 12:26:02] [WARN] [/controller] High CPU usage detected on node /controller.
+[2024-12-11 11:59:05] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:27:46] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 11:48:29] [INFO] [/controller] Publishing odometry data.
+[2024-12-11 12:04:21] [FATAL] [/lidar_processor] Critical failure in lidar node: process killed.
+[2024-12-11 12:00:49] [FATAL] [/camera_driver] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:20:23] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:49:26] [FATAL] [/camera_driver] System halted due to sensor input corruption.
+[2024-12-11 11:57:10] [INFO] [/camera_driver] Image frame received from camera.
+[2024-12-11 11:53:12] [WARN] [/lidar_processor] Minor frame drops detected on camera driver.
+[2024-12-11 11:48:51] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 12:22:25] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 11:59:24] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:19:53] [ERROR] [/lidar_processor] Path planning failed: No valid path found.
+[2024-12-11 11:57:46] [FATAL] [/path_planner] System halted due to sensor input corruption.
+[2024-12-11 12:00:48] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 11:52:40] [DEBUG] [/camera_driver] Sensor reading latency within bounds.
+[2024-12-11 11:51:16] [ERROR] [/path_planner] Odometry data not publishing correctly.
+[2024-12-11 12:09:45] [ERROR] [/path_planner] Sensor input timeout exceeded for node /path_planner.
+[2024-12-11 12:15:06] [FATAL] [/odom_publisher] Critical failure in lidar node: process killed.
+[2024-12-11 12:25:34] [WARN] [/odom_publisher] Minor frame drops detected on camera driver.
+[2024-12-11 12:20:25] [WARN] [/odom_publisher] High CPU usage detected on node /odom_publisher.
+[2024-12-11 12:05:48] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 12:15:58] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:32:29] [DEBUG] [/lidar_processor] Sensor reading latency within bounds.
+[2024-12-11 12:04:34] [ERROR] [/lidar_processor] Odometry data not publishing correctly.
+[2024-12-11 12:28:50] [ERROR] [/controller] Odometry data not publishing correctly.
+[2024-12-11 12:09:52] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:24:29] [INFO] [/controller] Lidar scan completed.
+[2024-12-11 12:13:08] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 12:20:58] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 12:32:44] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:52:28] [ERROR] [/lidar_processor] Sensor input timeout exceeded for node /lidar_processor.
+[2024-12-11 12:34:51] [INFO] [/odom_publisher] Lidar scan completed.
+[2024-12-11 11:50:54] [INFO] [/camera_driver] Path planned successfully to goal.
+[2024-12-11 12:16:53] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:11:02] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 11:59:07] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:58:08] [INFO] [/controller] Robot started successfully.
+[2024-12-11 12:19:51] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 11:55:12] [FATAL] [/camera_driver] Critical failure in lidar node: process killed.
+[2024-12-11 12:31:24] [INFO] [/controller] Path planned successfully to goal.
+[2024-12-11 11:59:37] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 11:59:25] [INFO] [/camera_driver] Robot started successfully.
+[2024-12-11 12:19:35] [ERROR] [/camera_driver] Path planning failed: No valid path found.
+[2024-12-11 12:13:13] [ERROR] [/path_planner] Path planning failed: No valid path found.
+[2024-12-11 12:09:11] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 12:29:52] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 12:03:37] [ERROR] [/odom_publisher] Failed to open camera stream.
+[2024-12-11 12:24:01] [WARN] [/path_planner] Minor frame drops detected on camera driver.
+[2024-12-11 11:54:46] [ERROR] [/controller] Failed to open camera stream.
+[2024-12-11 12:36:00] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 12:32:58] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 11:53:12] [ERROR] [/path_planner] Failed to open camera stream.
+[2024-12-11 12:29:39] [INFO] [/camera_driver] Publishing odometry data.
+[2024-12-11 11:50:36] [DEBUG] [/odom_publisher] Sensor reading latency within bounds.
+[2024-12-11 12:13:40] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 12:02:02] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 12:06:23] [FATAL] [/lidar_processor] Severe error, shutting down ROS master.
+[2024-12-11 12:00:27] [DEBUG] [/path_planner] Debugging path planner outputs.
+[2024-12-11 11:49:42] [INFO] [/odom_publisher] Path planned successfully to goal.
+[2024-12-11 12:26:08] [DEBUG] [/controller] Entering loop iteration 980.
+[2024-12-11 12:08:59] [INFO] [/lidar_processor] Robot started successfully.
+[2024-12-11 12:33:35] [WARN] [/camera_driver] Battery voltage dropped below 20%.
+[2024-12-11 12:30:12] [FATAL] [/path_planner] Critical failure in lidar node: process killed.
+[2024-12-11 12:31:35] [INFO] [/camera_driver] Lidar scan completed.
+[2024-12-11 12:04:11] [INFO] [/lidar_processor] Image frame received from camera.
+[2024-12-11 12:29:25] [WARN] [/odom_publisher] Battery voltage dropped below 20%.
+[2024-12-11 11:56:21] [FATAL] [/path_planner] Severe error, shutting down ROS master.
+[2024-12-11 12:15:09] [ERROR] [/camera_driver] Failed to open camera stream.
+[2024-12-11 12:30:37] [DEBUG] [/lidar_processor] Debugging path planner outputs.
+[2024-12-11 12:31:27] [FATAL] [/controller] Critical failure in lidar node: process killed.
+[2024-12-11 12:13:22] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 12:35:26] [FATAL] [/odom_publisher] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:02:37] [FATAL] [/controller] Controller failure: robot entering SAFE mode.
+[2024-12-11 12:27:48] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 12:16:10] [FATAL] [/controller] System halted due to sensor input corruption.
+[2024-12-11 11:56:04] [ERROR] [/odom_publisher] Sensor input timeout exceeded for node /odom_publisher.
+[2024-12-11 12:21:27] [DEBUG] [/path_planner] Entering loop iteration 819.
